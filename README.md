@@ -1,3 +1,3 @@
 # open-source-repo
-hello world 1
+hello world
 
